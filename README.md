@@ -1,2 +1,2 @@
 # Word-Attack
-Python Wordlist/Passwordlist Generator
+#Run file by typing python Word-Attack.py
